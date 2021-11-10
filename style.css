@@ -1,0 +1,70 @@
+.logo{
+    margin-left: 100px;
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+.menu {
+    background-color: black;
+    margin-top: 80px;
+    position: absolute;
+    width: 1500px;
+    
+}
+.menu li{
+    list-style: none;
+    width: 150px;
+    height: 40px;
+    margin-left: 80px;
+    line-height: 40px;
+    float:left;
+}
+
+.menu a:hover{
+    color: greenyellow;
+    
+}
+.menu-text{
+    color: white;
+}
+.heading{
+    margin-top: 170px;
+    position: absolute;
+    margin-left: 400px;
+    font-size: 55px;
+}
+.image{
+    margin-top: 300px;
+    margin-left: 100px;
+    position: absolute;
+}
+
+.gray-box{
+    background-color: gray;
+    float: left;
+    height: 680px;
+    width: 300px;
+    position: absolute;
+    margin-top: 135px;
+}
+
+.text{
+    text-align: center;
+    position: relative;
+    margin-top: 100px;
+    color: rgb(255, 255, 255);
+}
+.time-text{
+    color: rgb(253, 0, 0);
+    
+}
+.button{
+    margin-top: 20px;
+    background-color: purple;
+    height: 30px;
+    width: 100px;
+}
+.text-in-button{
+    color: white;
+}
